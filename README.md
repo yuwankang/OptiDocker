@@ -22,7 +22,7 @@ CMD ["java", "Main"]
 
 ![](https://velog.velcdn.com/images/yuwankang/post/6b57037b-5e07-4a9c-b945-4b82d92f91e6/image.png)
 
-## 0. Node.js 파일 최적화 하기 🛠️
+## 0. Node.js 이미지 최적화 하기 🛠️
 > 프로젝트 초반 Node.js 파일 최적화를 하려 하였지만 한국은 **JAVA** 강국 이기 때문에 JAR 파일을 만들어 진행 하였습니다.
 ![image](https://github.com/user-attachments/assets/4b21b586-9985-47a2-b969-0652464e87d9)
 ![image](https://github.com/user-attachments/assets/98d3eece-9c85-4840-b014-7468a65d778a)
